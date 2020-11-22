@@ -1,2 +1,2 @@
 # TransRESCAL
-The source code will upload after the paper accedpted.
+The source for the model TransRESCAL.
